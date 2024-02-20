@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me -->
-- 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Harsh_Rajpoot_) \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-rajpoot-4a96b2194)
